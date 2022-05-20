@@ -1,0 +1,5 @@
+id,customerId,itemId,itemName,itemPrice
+1,1,1,asus notebook,100000
+1,1,2,macbook pro 13 inch,123456
+1,2,2,macbook pro 13 inch,1234598
+1,2,3,macbook pro 15 inch,999999
